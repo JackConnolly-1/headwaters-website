@@ -32,7 +32,7 @@ export default function HeroContent() {
         of hard technology
       </h1>
       <p className="max-w-[660px] mx-auto mt-8 text-[21px] leading-[1.65] text-navy-700">
-        Headwaters writes $100K first checks into pre-revenue teams solving hard
+        Headwaters writes first checks into pre-revenue teams solving hard
         physical problems — from the Northern Rockies to the frontier of what's
         buildable.
       </p>

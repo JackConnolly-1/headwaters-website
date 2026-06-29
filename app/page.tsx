@@ -73,8 +73,8 @@ export default function HomePage() {
                   our mandate. We follow the problem, not the category.
                 </p>
                 <p className="text-[19px] leading-[1.72] text-navy-700 mb-[24px]">
-                  We write $100K first checks into pre-revenue teams from concept
-                  through early prototype. Our perpetual fund structure eliminates
+                  We write $100k–$250k checks into pre-revenue teams to support
+                  concept through early prototype. Our perpetual fund structure eliminates
                   the clock that forces premature exits — we're designed for
                   hardtech timelines, not a traditional fund lifecycle.
                 </p>

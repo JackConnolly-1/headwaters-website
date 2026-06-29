@@ -43,9 +43,10 @@ export default function ApplyPage() {
           </FadeIn>
           <FadeIn delay={160}>
             <p className="max-w-[640px] mx-auto mt-[26px] text-[19px] leading-[1.62] text-navy-700">
-              We make initial investments of {" "}
-              <span className="text-navy-900 font-semibold">$100,000</span> in
-              pre-revenue companies solving intricate, valuable problems.{" "}
+              We write {" "}
+              <span className="text-navy-900 font-semibold">$100k–$250k</span>{" "}
+              checks into pre-revenue companies solving intricate, valuable
+              problems.{" "}
               <span className="font-bold text-navy-900">
                 Read below for instructions on what to submit.
               </span>
